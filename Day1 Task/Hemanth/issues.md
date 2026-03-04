@@ -22,6 +22,7 @@ Step 2: Kill that process
 taskkill /PID 12345 /F
 
 Now run your Spring Boot project again.
+![Spring Boot Error](screenshot(119).png)
 
 ✅ Solution 2 – Change Port Number
 
