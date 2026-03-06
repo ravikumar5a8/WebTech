@@ -25,7 +25,7 @@
 * REST API
 * Git & GitHub
 
-##  🤝 Contributors
+### Contributors:
 
 <a href="https://github.com/kRamu81/WebTech/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=kRamu81/WebTech" />
