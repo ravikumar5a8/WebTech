@@ -24,3 +24,29 @@
 * Maven
 * REST API
 * Git & GitHub
+
+---
+## 👨‍💻 Team Members
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/kRamu81">
+<img src="https://github.com/kRamu81.png" width="100px;" alt="Ramu"/>
+<br /><sub><b>Ramu</b></sub>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/ashokkuruba2495-ship-it">
+<img src="https://github.com/ashokkuruba2495-ship-it.png" width="100px;" alt="Ashok"/>
+<br /><sub><b>Ashok</b></sub>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/hemant562ksrm">
+<img src="https://github.com/hemant562ksrm.png" width="100px;" alt="Hemanth"/>
+<br /><sub><b>Hemanth</b></sub>
+</a>
+</td>
