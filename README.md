@@ -21,12 +21,8 @@
 
 * Java
 * Spring Boot
-* Maven
 * REST API
 * Git & GitHub
+* MySQL 
+* Postman 
 
-### Contributors:
-
-<a href="https://github.com/kRamu81/WebTech/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kRamu81/WebTech" />
-</a>
